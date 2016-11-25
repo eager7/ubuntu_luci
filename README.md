@@ -1,0 +1,2 @@
+# ubuntu_luci
+在ubuntu系统上编译openwrt的luci工程，涉及到一些包的安装，一些文件的配置，一些库的下载等，所以在luci基础上自行开辟一个仓库
